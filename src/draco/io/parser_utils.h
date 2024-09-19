@@ -15,6 +15,7 @@
 #ifndef DRACO_IO_PARSER_UTILS_H_
 #define DRACO_IO_PARSER_UTILS_H_
 
+#include <limits>
 #include "draco/core/decoder_buffer.h"
 
 namespace draco {
